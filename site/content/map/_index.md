@@ -1,5 +1,5 @@
 ---
-center: '{"type":"Point","coordinates":[-85.0642027,38.734402]}'
+center: '{"type":"Point","coordinates":[-85.0591242,38.737716]}'
 zoom: 15
 title: Map
 label: Advisory
