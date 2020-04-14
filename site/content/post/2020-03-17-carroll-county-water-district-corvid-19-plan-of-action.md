@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Carroll County WATER District - CORVID-19 - Plan of Action
+title: Carroll County WATER District - COVID-19 - Plan of Action
 date: 2020-03-17T14:19:00.089Z
 description: >-
   Carroll County WATER District - CORVID-19 - Plan of Action - Office Lobby and
