@@ -1,0 +1,17 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Carroll County Water District"
+
+[params]
+    Id = "carrollcountywater"
+    Facebook = "https://www.facebook.com/cdpky"
+    BillPay = "https://payments.lexisnexis.com/ky/co/carroll/waterdistrict"
+
+[blackfriday]
+    extensions = ["hardLineBreak"]
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
