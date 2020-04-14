@@ -3,12 +3,12 @@ title: "Contact"
 contact_entries:
   - heading: Location
     text: |
-      3250 Blazer Parkway  
-      Lexington, KY 40509
-  - heading: Phone, Fax & Email
+      205 Main Cross Street  
+      Ghent, KY 41045
+  - heading: Phone, Fax & Hours
     text: |
-      (859) 264-7500 - Office  
-      (859) 264-7501 - Fax  
-      info@cdpengineers.com
+      (502) 347-9500 - Office  
+      (502) 347-9333 - Fax  
+      Monday – Friday: 8AM – 4PM (Excluding Holidays)
 ---
 
