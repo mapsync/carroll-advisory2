@@ -5,7 +5,10 @@ title = "Carroll County Water District"
 
 [params]
     Id = "carrollcountywater"
-    Facebook = "https://www.facebook.com/cdpky"
+    Color = "#009ad3"
+    AppTitle = "CCWD Advisory"
+    Description = "Alerts and interactive map to serve the customers of Carroll County Water District"
+    Facebook = ""
     BillPay = "https://payments.lexisnexis.com/ky/co/carroll/waterdistrict"
 
 [blackfriday]
