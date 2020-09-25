@@ -1,7 +1,7 @@
 ---
 title: Office Maintenance Notification
 draft: false
-date: 2020-09-25T16:04:57.033Z
+date: 2020-09-25T16:43:08.948Z
 description: "Schedule Maintenance Notification: No action is required by any customers!"
 ---
 As part of our commitment to providing exceptional services to our customers, this Saturday evening our credit card data center will be executing a planned data center failover test, migrating applications from our primary data center to our secondary data center and back to the primary. The purpose of this test will be to exercise our failover procedures and confirm standard functionality.  This is only a test to verify the backup system will work if in case it is needed.  During this down time of midnight to 0400 EST on September 27th, if trying to pay by credit card, you will have to process payment a later time.  
