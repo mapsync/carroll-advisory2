@@ -1,0 +1,13 @@
+---
+title: Office Maintenance Notification
+draft: false
+date: 2020-09-25T16:04:57.033Z
+description: "Schedule Maintenance Notification: No action is required by any customers!"
+---
+As part of our commitment to providing exceptional services to our customers, this Saturday evening our credit card data center will be executing a planned data center failover test, migrating applications from our primary data center to our secondary data center and back to the primary. The purpose of this test will be to exercise our failover procedures and confirm standard functionality.  This is only a test to verify the backup system will work if in case it is needed.  During this down time of midnight to 0400 EST on September 27th, if trying to pay by credit card, you will have to process payment a later time.  
+
+Remember, you have the option to avoid credit card fees by signing up for the free, no monthly service fees through an Auto Draft payment that can be arranged through our office.  Please call us for more details.
+
+We would also like to take this opportunity to wish everyone a safe good weekend!  
+
+Carroll County Water Gang!
