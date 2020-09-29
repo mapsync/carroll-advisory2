@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Sound", name: "sound", widget: "boolean", default: false}
       - {label: "Message", name: "message", widget: "text"}
       - {label: "Link", name: "link", widget: "string", required: false}
-      - {label: "Account", name: "account", widget: "hidden", default: "carrollcountywater"}
+      - {label: "Account", name: "account", widget: "hidden", default: "cdp"}
       - {label: "Outputs", name: "outputs", widget: "hidden", default: ["json"]}
   - name: "pages"
     label: "Pages"
