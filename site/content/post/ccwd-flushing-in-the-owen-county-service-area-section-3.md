@@ -1,7 +1,7 @@
 ---
 title: CCWD - Flushing in the Owen County service area section.
 draft: false
-date: 2021-10-28T15:10:04.176Z
+date: 2021-10-28T16:35:45.249Z
 description: "PSA: Carroll County Water District will be flushing in the Owen
   County rural service areas. Thank you!"
 ---
