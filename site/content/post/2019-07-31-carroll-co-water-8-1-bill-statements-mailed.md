@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Carroll Co Water 11/01 bill statements mailed
-date: 2019-07-31T11:53:18.933Z
+date: 2021-10-28T16:58:00.707Z
 description: CCWD (11/1) Bill Postal Mailing Notice!!!  (Should be in mailboxes
   on Monday the 1st)
 ---
