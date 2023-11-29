@@ -1,0 +1,15 @@
+---
+title: Boil Water Advisory-Hwy 47
+draft: false
+date: 2023-11-29T14:59:21.379Z
+description: 11/29/23- Issuing Boil Water Advisory for Hwy 47(7000 Block)in Ghent.
+---
+A Boil Water Advisory is being issued by Carroll County Water District #1 until further notice of customers located in the 7000 Block of Hwy 47 in Ghent. This is a precautionary measure and it is recommended that you boil the water used for drinking at a rolling boil for 3 minutes prior to consumption. 
+
+This advisory is until further notice. If you have any questions or comments, please call 502-347-9500. Thank you for understanding and we do apologize for any inconvenience this may have caused. 
+
+
+
+Kind Regards,
+
+ Carroll County Water District #1
