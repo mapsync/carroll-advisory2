@@ -1,7 +1,7 @@
 ---
 title: Cold Weather is Upon Us
 draft: false
-date: 2024-01-11T20:01:02.191Z
+date: 2024-01-11T20:17:03.934Z
 description: Prepare for Winter Now, Avoid the Headache
 image: /img/are-you-ready-for-winter.png
 ---
