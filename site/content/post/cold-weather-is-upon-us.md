@@ -1,0 +1,30 @@
+---
+title: Cold Weather is Upon Us
+draft: false
+date: 2024-01-11T20:01:02.191Z
+description: .
+image: /img/are-you-ready-for-winter.png
+---
+***Locate your main Water Shutoff***
+
+Make sure everyone in your home knows where the water main shutoff valve is located and keep it clear of debris and obstacles at all time for easy access.
+
+***Exposed pipes and water heaters***
+
+Insulate pipes in unheated and drafty areas, such as an attic or garage.
+
+***Outside faucets***
+
+Turn off outside faucets.Remove all connected hoses and wrap faucets with towels or a Styrofoam insulator. Ensure vents are closed going under homes.
+
+***Protect indoor faucets***
+
+Allow faucets to slightly drip/flow throughout the ***DAY*** and night to reduce the risk of frozen pipes.
+
+Open cabinets beneath kitchen and bathroom sinks to allow warmer air to circulate around pipes.
+
+***If your Pipes Freeze***
+
+* Try to determine which pipe(s) are frozen. If some faucets work and others do not, it means pipes inside your home are frozen.
+* If a pipe is frozen, assume it may be broken and will leak when thawed. Be ready to shut off your water in a hurry when the line thaws.
+* If there is no water to your home or your pipes appear to be frozen, call us at 502-347-9500 or 502-548-9500, so we can ensure water is flowing to your meter correctly.
