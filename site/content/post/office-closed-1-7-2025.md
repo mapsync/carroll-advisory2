@@ -1,7 +1,7 @@
 ---
 title: Office Closed 1-7-2025
 draft: false
-date: 2025-01-05T23:41:42.328Z
+date: 2025-01-07T14:35:01.797Z
 description: Office Closed Tuesday January 7th, 2025 due to inclement weather
 image: /img/oip.jpg
 ---
