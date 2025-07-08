@@ -1,5 +1,5 @@
 ---
-title: Boil Water Issued-
+title: Boil Water Issued
 draft: false
 date: 2025-07-08T14:34:04.178Z
 description: "A BOIL WATER ADVISORY IS BEING ISSUED BY CARROLL COUNTY WATER
