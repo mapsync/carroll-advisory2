@@ -1,7 +1,7 @@
 ---
 title: Boil Water Advisory-Issued
 draft: false
-date: 2025-08-20T13:00:00.000Z
+date: 2025-08-20T18:44:55.760Z
 description: "A Boil Water Advisory issued for Flamingo Ln, Greenmeadow Dr,
   Bridgehaven Ln, Heatherhill Dr, Riverside Dr, and Fairbourne Ln in Owen
   County. "
