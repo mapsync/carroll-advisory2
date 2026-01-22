@@ -1,7 +1,7 @@
 ---
 title: Prevent Frozen Pipes!!!
 draft: false
-date: 2026-01-19T16:16:32.864Z
+date: 2026-01-22T18:04:45.865Z
 description: Do you want to prevent frozen pipes? Or maybe your pipes have
   frozen.... Now What???
 image: /img/20231214_120716.jpg
