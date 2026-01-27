@@ -6,7 +6,7 @@ description: Office will be closed today, 1/27/26 due to inclement weather,
   staff is working remotely and ready to assist!
 image: /img/oip.jpg
 ---
-Due to ongoing inclement weather and safety concerns for our staff, with the current road conditions being Snow-Ice Emergency Level 3 in our service area; the CCWD office will remain closed Tuesday 1/27/26. Staff will continue working remotely. 
+Due to ongoing inclement weather and safety concerns for our staff, with the current road conditions being Snow-Ice Emergency Level 2 in our service area; the CCWD office will remain closed Tuesday 1/27/26. Staff will continue working remotely. 
 
 \*﻿ If you need to make payment you may do so by the following\*
 
